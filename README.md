@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cantsn&show_icons=true&locale=en" alt="cantsn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantsn&" alt="cantsn" /></p>
+
+![snake gif](https://github.com/cantsn/cantsn/blob/output/github-contribution-grid-snake.gif)
