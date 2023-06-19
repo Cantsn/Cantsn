@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cantsn&" alt="cantsn" /></p>
 
-![snake gif](https://github.com/cantsn/cantsn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Cantsn/Cantsn/blob/output/github-contribution-grid-snake.gif)
